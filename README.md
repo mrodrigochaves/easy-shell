@@ -20,6 +20,12 @@
 13.  `uniq`: Remove linhas duplicadas de um arquivo.
 14.  `find`: Procura por arquivos ou diretórios em um diretório específico.
 15.  `wc`: Conta o número de linhas, palavras e caracteres em um arquivo.
+16.  `w`: Filtrar informações do sistema.
+17.  `uname -r`: Exibir a versão do Kernel.
+18.  `env`: Exibir as váriaveis globais.
+19.  `free -m`: Verificar o uso de memória livre no sistema.
+20.  `df -h`: verificar o espaço disponível nos discos/partições.
+21.  `cat /etc/passwd | wc -l`: Obter contagem de usuários do sistemas.
 
 ---
 **Você pode obter mais informações clicando nos links abaixo:**
