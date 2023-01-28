@@ -26,6 +26,10 @@
 19.  `free -m`: Verificar o uso de memória livre no sistema.
 20.  `df -h`: verificar o espaço disponível nos discos/partições.
 21.  `cat /etc/passwd | wc -l`: Obter contagem de usuários do sistemas.
+22.  `passwd`: Alterar senha do usuário.
+23.  `su`: Alterar entre usuários.
+24.  `top`: Exibir processos em execução e uso de recursos do sistema.
+25.  `kill`: Finalizar processos.
 
 ---
 **Você pode obter mais informações clicando nos links abaixo:**
