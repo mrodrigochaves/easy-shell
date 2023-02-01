@@ -57,7 +57,7 @@
 50. `ping -c`: Enviar um número específico de pacotes de teste de rede.
 
 ---
-**Você pode obter mais informações clicando nos links abaixo:**
+**Você pode obter mais exemplos nos links abaixo:**
 
 
 
