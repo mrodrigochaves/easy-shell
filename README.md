@@ -2,7 +2,7 @@
 
 # 💻 Stacks utilizadas:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=%23F7DF1E) 
-### São 50 comandos e suas atribuições:
+### São 50 comandos simples mais muito úteis:
 ---
 
 1.  `echo`: Exibe uma mensagem na tela.
